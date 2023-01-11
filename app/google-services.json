@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248824945532",
+    "firebase_url": "https://burnfirebase-default-rtdb.firebaseio.com",
+    "project_id": "burnfirebase",
+    "storage_bucket": "burnfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248824945532:android:ba94a5ea6b76338e2fe2f9",
+        "android_client_info": {
+          "package_name": "com.remesoft.firebaseburn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248824945532-rlp7iqhjki852clc2cp4gm5e0kast1o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoXeWmDDmTMY5QLPa_v_di7TvIago-Ufc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248824945532-rlp7iqhjki852clc2cp4gm5e0kast1o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
